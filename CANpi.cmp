@@ -1,0 +1,171 @@
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Wed 15 Jan 2014 09:14:40 PM CET
+
+BeginCmp
+TimeStamp = /525DAA3B;
+Reference = C1;
+ValeurCmp = 16p;
+IdModule  = SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /525DAA4A;
+Reference = C2;
+ValeurCmp = 16p;
+IdModule  = SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /525DAC9A;
+Reference = C3;
+ValeurCmp = 100n;
+IdModule  = SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /525E8B99;
+Reference = C4;
+ValeurCmp = 100n;
+IdModule  = SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /525DB871;
+Reference = C5;
+ValeurCmp = 100n;
+IdModule  = SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /526551C8;
+Reference = C6;
+ValeurCmp = C;
+IdModule  = SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /525DB84A;
+Reference = C7;
+ValeurCmp = 100n;
+IdModule  = SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52D6EA0A;
+Reference = D1;
+ValeurCmp = RPi PWR;
+IdModule  = SMD-0805-LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /52D6EA46;
+Reference = D2;
+ValeurCmp = RPi OK;
+IdModule  = SMD-0805-LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /52D6EA51;
+Reference = D3;
+ValeurCmp = Bus PWR;
+IdModule  = SMD-0805-LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /525DA2AC;
+Reference = P1;
+ValeurCmp = RPIEX;
+IdModule  = PIN_HEADER-13x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /525DBB96;
+Reference = P2;
+ValeurCmp = CAN;
+IdModule  = MPT-0,5_2.54x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /5298798A;
+Reference = Q1;
+ValeurCmp = IRLML9303TR;
+IdModule  = SOT-23_TO-236AB;
+EndCmp
+
+BeginCmp
+TimeStamp = /525DB22B;
+Reference = R1;
+ValeurCmp = 4k7;
+IdModule  = SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /526551A0;
+Reference = R2;
+ValeurCmp = 60R;
+IdModule  = SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /526551AF;
+Reference = R3;
+ValeurCmp = 60R;
+IdModule  = SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52D673E3;
+Reference = R4;
+ValeurCmp = 4k7;
+IdModule  = SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52D6EB8D;
+Reference = R5;
+ValeurCmp = 330;
+IdModule  = SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52D6EB87;
+Reference = R6;
+ValeurCmp = 330;
+IdModule  = SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52D6EA70;
+Reference = R7;
+ValeurCmp = 330;
+IdModule  = SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /526686D4;
+Reference = U1;
+ValeurCmp = MCP2515-DIP-SOIC;
+IdModule  = SOIC-18W;
+EndCmp
+
+BeginCmp
+TimeStamp = /525E793D;
+Reference = U2;
+ValeurCmp = ADM3054;
+IdModule  = SOIC-16W;
+EndCmp
+
+BeginCmp
+TimeStamp = /52989CAA;
+Reference = U3;
+ValeurCmp = BA05FP;
+IdModule  = TO-252-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5278F215;
+Reference = X1;
+ValeurCmp = 16MHz;
+IdModule  = XTAL-HC49_SM;
+EndCmp
+
+EndListe
